@@ -1,0 +1,4 @@
+I used JavaScript for this project because the framework i used has only one PDF Generator library which doesn't support TypeScript.
+Thank you for understanding.
+
+Mohamed Ala YAHYAOUI
